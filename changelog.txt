@@ -1,0 +1,9 @@
+Version 8.1 Changelog:
+
+> Based on the latest version of Google Play v36.5.5
+> Removed all restrictions on downloads
+> Rewind is now available in any video
+> Battery drain optimization
+> Removed regional restrictions
+> Other small fixes and improvements
+> AzerPro MoDs @azerpro1
