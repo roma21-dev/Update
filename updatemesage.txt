@@ -6,12 +6,12 @@
     "com.zhiliaoapp.musically": "https://wplusyukle.com/aztiktok",
 	"com.ss.android.ugc.trill": "https://wplusyukle.com/aztiktok",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 8.1</p>
-<li>Ù…Ø¨Ù†ÙŠ Ø¹Ù„Ù‰ Ø§Ø®Ø± Ø§ØµØ¯Ø§Ø± Ù…Ù† Ø¬ÙˆØ¬Ù„ Ø¨Ù„Ø§ÙŠ 36.5.5</li>
-<li>Ø§Ø¶Ø§ÙØ© Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„Ù„ÙŠÙ„ÙŠ</li>
-<li>ØªØºÙŠØ± Ø§ÙŠÙ‚ÙˆÙ†Ø© TikTok Azerbaycan</li>
-<li>Ø­Ù„ Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§ÙˆØ§Ù† Ø¹Ù†Ø¯ ØªØºÙŠØ± Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„Ù„ÙŠÙ„ÙŠ</li>
-<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+<p>Update baza kodu 8.1</p>
+<li>Baza versiya 36.5.5</li>
+<li>Videolari logosuz yukleme imkani</li>
+<li>AZTikTok bir Azerbaycan brendidi</li>
+<li>Butun videolari yukleme imkani</li>
+<li>Yeni versiyani yuklemeyiniz xais olunur</li>
 <li>AzerPro MoDs @azerpro1</li>
 
 <li>Update source code to 36.5.5</li>
