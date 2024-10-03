@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "1",
+    "update_code": "0",
     "reminder_time": "3",
     "update_version": "v3.1",
     "com.zhiliaoapp.musically": "https://wplusyukle.com/aztiktok",
