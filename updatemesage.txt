@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v8.1",
+    "update_version": "v3.1",
     "com.zhiliaoapp.musically": "https://wplusyukle.com/aztiktok",
 	"com.ss.android.ugc.trill": "https://wplusyukle.com/aztiktok",
     "update_message": "
