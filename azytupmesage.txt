@@ -1,0 +1,24 @@
+{
+  "Gold": {
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_version": "v14",
+    "com.azerpro.android.youtube": "https://wplusyukle.com/whatsapp-azerpro",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 12</p>
+<li>ØªØ­Ø¯ÙŠØ« Ø§Ù„Ù‚Ø§Ø¹Ø¯Ù‡ Ø§Ù„Ù‰ â€Ø§Ù„Ø§ØµØ¯Ø§Ø± 19.30.39</li>
+<li>ØªØµÙ…ÙŠÙ… Ø¬Ø¯ÙŠØ¯ Ù„Ù„Ø§Ø¶ÙØ§Øª ÙˆØ§ÙŠØ¶Ø§ Ù„ØµÙØ­Ø© Ø§Ù„ÙÙŠØ¯ÙŠÙˆ</li>
+<li>Ø­Ù„ Ù…Ø´ÙƒÙ„Ø© ØªØ¹Ø°Ø± ØªØ´ØºÙŠÙ„ Ø§Ù„ÙÙŠØ¯ÙŠÙˆÙ‡Ø§Øª</li>
+<li>Ù…Ø´ÙƒÙ„Ø© ØªÙ†Ø²ÙŠÙ„ Ø§Ù„ÙÙŠØ¯ÙŠÙˆÙ‡Ø§Øª</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ø¬Ù…ÙŠØ¹ Ù…Ø´Ø§ÙƒÙ„ Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø±Ø§Øª</li>
+<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+
+<li>Updated the base to version 19.30.39</li>
+<li>New design for the AzerPro Settings and also for the video page</li>
+<li>Fixed Problem of not being able to play videos</li>
+<li>Fixed Problem downloading videos</li>
+<li>Fixed All crash problems</li>
+<li>More fixes and other improvements</li>
+"
+    }
+}
