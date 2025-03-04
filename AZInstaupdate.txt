@@ -1,0 +1,8 @@
+{ "Gold": { "update_code": "5", "reminder_time": "1", "update_version": "v11.10", "com.instagram.android": "https://wplusyukle.com/whatsapp-azerpro", "com.azerproinsta.android": "https://wplusyukle.com/whatsapp-azerpro", "com.azerproinsta.android": "https://wplusyukle.com/whatsapp-azerpro", "update_message": " 
+<p>Update version 11.10</p>
+<li>base update…</li>
+<li>verify vebsite</li>
+
+<li>Important Update</li>
+<li>Please Download And Install Latest Version To Keep Your AZInstagram Working Well</li>
+" } }
