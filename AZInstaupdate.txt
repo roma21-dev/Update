@@ -1,4 +1,4 @@
-{ "Gold": { "update_code": "6", "reminder_time": "1", "update_version": "v11.10", "com.instagram.android": "https://wplusyukle.com/whatsapp-azerpro", "com.azerproinsta.android": "https://wplusyukle.com/whatsapp-azerpro", "com.azerproinsta.android": "https://wplusyukle.com/whatsapp-azerpro", "update_message": " 
+{ "Gold": { "update_code": "6", "reminder_time": "3", "update_version": "v11.10", "com.azerproinsta.android": "https://wplusyukle.com/whatsapp-azerpro", "update_message": " 
 <p>Update version 11.10</p>
 <li>base update…</li>
 <li>verify vebsite</li>
