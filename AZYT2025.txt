@@ -1,0 +1,17 @@
+{
+  "Gold": {
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_version": "v14",
+    "com.gold.android.youtube": "https://wplusyukle.com/whatsapp-azerpro",
+    "update_message": "
+<p>Update Version 13</p>
+<li>Updated the base to version 19.30.39</li>
+<li>New design for the AzerPro Settings and also for the video page</li>
+<li>Fixed Problem of not being able to play videos</li>
+<li>Fixed Problem downloading videos</li>
+<li>Fixed All crash problems</li>
+<li>More fixes and other improvements</li>
+"
+    }
+}
