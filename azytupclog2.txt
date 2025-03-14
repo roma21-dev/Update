@@ -1,8 +1,8 @@
-Ø§Ù„Ø¥ØµØ¯Ø§Ø± 14 Ø§Ù„ØªØºÙŠÙŠØ±:
+Version 13. Changelog:
 
-> ØªØ­Ø¯ÙŠØ« Ø§Ù„Ù‚Ø§Ø¹Ø¯Ù‡ Ø§Ù„Ù‰ â€Ø§Ù„Ø§ØµØ¯Ø§Ø± 19.30.39
-> ØªØµÙ…ÙŠÙ… Ø¬Ø¯ÙŠØ¯ Ù„Ù„Ø§Ø¶ÙØ§Øª ÙˆØ§ÙŠØ¶Ø§ Ù„ØµÙØ­Ø© Ø§Ù„ÙÙŠØ¯ÙŠÙˆ
-> Ø­Ù„ Ù…Ø´ÙƒÙ„Ø© ØªØ¹Ø°Ø± ØªØ´ØºÙŠÙ„ Ø§Ù„ÙÙŠØ¯ÙŠÙˆÙ‡Ø§Øª
-> Ø­Ù„ Ù…Ø´ÙƒÙ„Ø© ØªÙ†Ø²ÙŠÙ„ Ø§Ù„ÙÙŠØ¯ÙŠÙˆÙ‡Ø§Øª
-> Ø¥ØµÙ„Ø§Ø­ Ø¬Ù…ÙŠØ¹ Ù…Ø´Ø§ÙƒÙ„ Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø±Ø§Øª
-> Ù…Ø²ÙŠØ¯ Ù…Ù† Ø§Ù„Ø¥ØµÙ„Ø§Ø­Ø§Øª ÙˆØ§Ù„ØªØ­Ø³ÙŠÙ†Ø§Øª Ø§Ù„Ø£Ø®Ø±Ù‰
+> Updated the base to version 19.30.39
+> New design for the AzerPro Settings and also for the video page
+> Fixed Problem of not being able to play videos
+> Fixed Problem downloading videos
+> Fixed All crash problems
+> More fixes and other improvements
