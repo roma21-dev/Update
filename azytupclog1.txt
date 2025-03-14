@@ -1,4 +1,4 @@
-Version 14. Changelog:
+Version 13. Changelog:
 
 > Updated the base to version 19.30.39
 > New design for the AzerPro Settings and also for the video page
