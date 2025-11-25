@@ -1,1 +1,8 @@
-kodlar
+What's new in this update V35.50
+
+ [Added] an increase in the video sending size.
+[Added] increased sending volume of audio clips.
+[Added] the option to send audio clips as a voice message or audio clips.
+[Added] and delete for everyone at any time.
+[Fixed] the crash when entering chat on some devices.
+[More] Many other fixes and improvements.
