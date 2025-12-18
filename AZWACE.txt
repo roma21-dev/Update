@@ -1,4 +1,4 @@
-What's new in this update V35.50
+What's new in this update V36.60
 
  [Added] an increase in the video sending size.
 [Added] increased sending volume of audio clips.
@@ -6,13 +6,3 @@ What's new in this update V35.50
 [Added] and delete for everyone at any time.
 [Fixed] the crash when entering chat on some devices.
 [More] Many other fixes and improvements.
-
-ما الجديد في هذا التحديث V35.50
-
-
-[إضافة] زيادة في حجم إرسال الفيديو.
-[إضافة] زيادة في حجم إرسال المقاطع الصوتية.
-[إضافة] خيار إرسال مقاطع الصوت كرسالة صوتية أو مقاطع صوتي.
-[إضافة] الحذف لدى الجميع في أي وقت.
-[إصلاح] الانهيار عند الدخول الى الدردشة في بعض الاجهزة.
-[مزيد] العديد من الاصلاحات والتحسينات الاخرى.
