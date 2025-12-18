@@ -1,4 +1,4 @@
-What's new in this update V35.50
+What's new in this update V36.60
 
  [Added] an increase in the video sending size.
 [Added] increased sending volume of audio clips.
